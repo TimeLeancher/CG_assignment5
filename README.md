@@ -49,3 +49,9 @@ Modify the code that was in sphere_scene for use in c++.
 
 ![image](https://github.com/user-attachments/assets/e3798e3a-4e33-4073-bc77-d3d9ef89b95a)
 
+Resterization
+
+![image](https://github.com/user-attachments/assets/755f5975-aa82-4004-9d58-cd0c745dc35d)
+
+![image](https://github.com/user-attachments/assets/23ac6121-27b5-49e5-b299-6bfe9dc0723a)
+
