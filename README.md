@@ -21,3 +21,26 @@ Result of assignmet5
 ---
 Explanation
 ---
+#include
+<vector>: Header file for using dynamic arrays.
+<cmath>: Header file for using mathematical functions (sin, cos, etc.).
+<algorithm>: Header file for using algorithm-related functions (min, max, etc.).
+<limits>: Header file for using numerical limit (e.g., infinity).
+glm/glm.hpp, glm/gtc/matrix_transform.hpp, glm/gtc/type_ptr.hpp: GL Mathematics (glm) library header file for vector and matrix operations.
+Modify the code that was in sphere_scene for use in c++.
+
+![image](https://github.com/user-attachments/assets/00f56508-adef-4bcc-8783-857cbd03c9a0)
+1. modeling Transformation
+![image](https://github.com/user-attachments/assets/568e61e2-50f1-4a41-8aee-25a6f40b9339)
+
+
+2.camera transformation
+![image](https://github.com/user-attachments/assets/4a37f260-8576-4ae7-8f2a-f81fdf3b918f)
+
+
+3.projection transformation
+![image](https://github.com/user-attachments/assets/27dfb0d3-04e7-4806-8874-bf1faaac971d)
+
+4.Viewport transformation
+![image](https://github.com/user-attachments/assets/e3798e3a-4e33-4073-bc77-d3d9ef89b95a)
+
